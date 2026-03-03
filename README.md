@@ -24,6 +24,7 @@ const kratik = {
     location: "Indore, India 🇮🇳",
     education: "ECE @ NIT Surat '25",
     building: ["real-time collab tools", "PWAs", "AI agents"],
+    solving: "219+ DSA problems across platforms",
     askMeAbout: ["web dev", "system design", "processor design", "competitive programming"],
     funFact: "I designed a CPU from scratch and deployed it on an FPGA at 50 MHz 🧠"
 };
@@ -138,7 +139,7 @@ const kratik = {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=KratikJain10&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" width="95%"/>
+<img src="https://github-trophies.vercel.app/?username=KratikJain10&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" width="95%"/>
 
 </div>
 
@@ -189,6 +190,7 @@ const kratik = {
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KratikJain10/KratikJain10/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/KratikJain10/KratikJain10/output/github-snake-dark.svg" width="100%"/>
 </picture>
+
 
 
 
