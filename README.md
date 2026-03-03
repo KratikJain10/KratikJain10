@@ -190,50 +190,7 @@ const kratik = {
   <img alt="github-snake" src="https://raw.githubusercontent.com/KratikJain10/KratikJain10/output/github-snake-dark.svg" width="100%"/>
 </picture>
 
-> ⚠️ *To enable the snake animation, add [this GitHub Action workflow](#-snake-animation-setup) to your profile repo.*
 
-</div>
-
----
-
-<details>
-<summary>&nbsp;🐍 <b>Snake Animation Setup</b></summary>
-<br/>
-
-Create `.github/workflows/snake.yml` in your `KratikJain10/KratikJain10` profile repo:
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *" # Runs daily at midnight UTC
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: KratikJain10
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-Run it once manually from the **Actions** tab, and the snake will auto-update daily.
-
-</details>
-
----
 
 <div align="center">
 
