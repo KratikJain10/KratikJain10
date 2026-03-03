@@ -17,10 +17,10 @@ const kratik = {
     currentlyBuilding: ["real-time collab tools", "PWAs", "AI agents"],
     techIEnjoy: {
         frontend:  ["React", "Next.js", "TypeScript"],
-        backend:   ["Node.js", "Spring Boot", "Express"],
-        systems:   ["Rust", "Tauri", "gRPC", "Verilog"],
+        backend:   ["Node.js","Express"],
+        systems:   ["gRPC", "Verilog"],
         data:      ["PostgreSQL", "Supabase", "MongoDB", "Kafka"],
-        infra:     ["Docker", "Nginx", "GitHub Actions", "Linux"],
+        infra:     ["Docker", "Nginx", "Linux"],
     },
     funFact: "I designed a CPU from scratch and deployed it on an FPGA 🧠"
 };
