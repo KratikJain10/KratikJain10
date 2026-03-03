@@ -81,8 +81,8 @@ const kratik = {
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000" />
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=fff" />
 <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=fff" />
-<img src="https://img.shields.io/badge/Zustand-000?style=flat-square" />
-<img src="https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=fff" />
+<img src="https://img.shields.io/badge/Zustand-764ABC?style=flat-square&logoColor=fff" />
+<img src="https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logoColor=fff" />
 </p>
 
 </td>
@@ -98,8 +98,8 @@ const kratik = {
 <p>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000" />
 <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=fff" />
-<img src="https://img.shields.io/badge/Zustand-000?style=flat-square" />
-<img src="https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=fff" />
+<img src="https://img.shields.io/badge/Zustand-764ABC?style=flat-square&logoColor=fff" />
+<img src="https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logoColor=fff" />
 </p>
 
 </td>
@@ -138,7 +138,7 @@ const kratik = {
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=KratikJain10&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-profile-trophy.vercel.app/?username=KratikJain10&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" width="95%"/>
 
 </div>
 
