@@ -24,7 +24,6 @@ const kratik = {
     location: "Indore, India 🇮🇳",
     education: "ECE @ NIT Surat '25",
     building: ["real-time collab tools", "PWAs", "AI agents"],
-    solving: "219+ DSA problems across platforms",
     askMeAbout: ["web dev", "system design", "processor design", "competitive programming"],
     funFact: "I designed a CPU from scratch and deployed it on an FPGA at 50 MHz 🧠"
 };
