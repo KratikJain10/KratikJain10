@@ -21,7 +21,7 @@
 
 ```js
 const kratik = {
-    location: "Indore, India 🇮🇳",
+    location: "Mumbai, India 🇮🇳",
     education: "ECE @ NIT Surat '25",
     building: ["real-time collab tools", "PWAs", "AI agents"],
     askMeAbout: ["web dev", "system design", "processor design", "competitive programming"],
