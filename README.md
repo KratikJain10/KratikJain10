@@ -154,13 +154,13 @@ const kratik = {
 
 </div>
 
-<!-- <br/> -->
+<br/> 
 
-<!-- <div align="center">
+ <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=KratikJain10&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Graph" width="95%"/>
 
-</div> -->
+</div> -
 
 <br/>
 
