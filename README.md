@@ -150,7 +150,7 @@ const kratik = {
 
 <img src="https://github-readme-stats.vercel.app/api?username=KratikJain10&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true&rank_icon=github" height="180"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com?user=KratikJain10&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" height="180"/>
+<!-- <img src="https://github-readme-streak-stats.herokuapp.com?user=KratikJain10&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" height="180"/> -->
 
 </div>
 
