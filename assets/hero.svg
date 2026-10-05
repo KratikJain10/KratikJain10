@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="280" viewBox="0 0 840 280" role="img" aria-label="Kratik Jain, backend engineer">
+  <defs>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#58a6ff"/>
+      <stop offset="1" stop-color="#a371f7"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.2" cy="0.1" r="0.9">
+      <stop offset="0" stop-color="#1f6feb" stop-opacity="0.28"/>
+      <stop offset="1" stop-color="#0d1117" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M24 0H0V24" fill="none" stroke="#21262d" stroke-width="1"/>
+    </pattern>
+    <clipPath id="r"><rect width="840" height="280" rx="14"/></clipPath>
+    <style>
+      .sans{font-family:-apple-system,'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif}
+      .mono{font-family:ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,'DejaVu Sans Mono',monospace}
+      .l{animation:in .3s both}
+      .l1{animation-delay:.4s}.l2{animation-delay:1.1s}.l3{animation-delay:1.8s}.l4{animation-delay:2.6s}.l5{animation-delay:3.3s}
+      @keyframes in{from{opacity:0}to{opacity:1}}
+      .cur{animation:blink 1s steps(1) infinite}
+      @keyframes blink{50%{opacity:0}}
+    </style>
+  </defs>
+  <g clip-path="url(#r)">
+    <rect width="840" height="280" fill="#0d1117"/>
+    <rect width="840" height="280" fill="url(#grid)"/>
+    <rect width="840" height="280" fill="url(#glow)"/>
+    <rect width="840" height="4" fill="url(#accent)"/>
+  </g>
+  <rect x="0.5" y="0.5" width="839" height="279" rx="14" fill="none" stroke="#30363d"/>
+
+  <text x="44" y="96" class="sans" font-size="54" font-weight="800" fill="#e6edf3" letter-spacing="-1">Kratik Jain</text>
+  <text x="46" y="134" class="sans" font-size="20" font-weight="600" fill="url(#accent)">Backend engineer · C++ · systems</text>
+  <text x="46" y="176" class="sans" font-size="15" fill="#8b949e">I build the layer under the API:</text>
+  <text x="46" y="198" class="sans" font-size="15" fill="#8b949e">sockets, event loops, protocols,</text>
+  <text x="46" y="220" class="sans" font-size="15" fill="#8b949e">and finding where the time goes.</text>
+  <text x="46" y="252" class="mono" font-size="12" fill="#6e7681">NIT Surat '25 · India</text>
+
+  <!-- terminal -->
+  <g transform="translate(404 40)">
+    <rect width="396" height="200" rx="10" fill="#010409" stroke="#30363d"/>
+    <rect width="396" height="28" rx="10" fill="#161b22"/>
+    <rect y="18" width="396" height="10" fill="#161b22"/>
+    <circle cx="18" cy="14" r="5" fill="#ff5f56"/><circle cx="36" cy="14" r="5" fill="#ffbd2e"/><circle cx="54" cy="14" r="5" fill="#27c93f"/>
+    <text x="198" y="18" class="mono" font-size="11" fill="#6e7681" text-anchor="middle">kratik@arch: ~/onyx</text>
+    <g class="mono" font-size="12.5" xml:space="preserve">
+      <text x="16" y="56" class="l l1"><tspan fill="#3fb950">$</tspan><tspan fill="#e6edf3"> ./onyx &amp;</tspan></text>
+      <text x="16" y="80" class="l l2"><tspan fill="#3fb950">$</tspan><tspan fill="#e6edf3"> redis-cli SET hello world</tspan></text>
+      <text x="16" y="98" class="l l2" fill="#8b949e">OK</text>
+      <text x="16" y="122" class="l l3"><tspan fill="#3fb950">$</tspan><tspan fill="#e6edf3"> valkey-benchmark -P 16 -t set</tspan></text>
+      <text x="16" y="140" class="l l4" fill="#8b949e">SET: <tspan fill="#58a6ff" font-weight="700">965,251</tspan> requests per second</text>
+      <text x="16" y="164" class="l l5"><tspan fill="#3fb950">$</tspan><tspan fill="#e6edf3"> </tspan><tspan class="cur" fill="#e6edf3">▍</tspan></text>
+    </g>
+  </g>
+</svg>

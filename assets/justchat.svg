@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="410" height="206" viewBox="0 0 410 206" role="img" aria-label="Just-Chat">
+  <style>.sans{font-family:-apple-system,'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif}.mono{font-family:ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,'DejaVu Sans Mono',monospace}</style>
+  <rect x="0.5" y="0.5" width="409" height="205" rx="14" fill="#161b22" stroke="#30363d"/>
+  <rect x="18" y="1" width="374" height="3" rx="1.5" fill="#3fb950"/>
+  <text x="24" y="46" class="sans" font-size="21" font-weight="800" fill="#e6edf3">Just-Chat</text>
+  <text x="386" y="46" class="mono" font-size="20" fill="#3fb950" text-anchor="end">⇄</text>
+  <text x="24" y="72" class="sans" font-size="13" font-weight="600" fill="#3fb950">Real-time chat over WebSockets</text>
+  <text x="24" y="108" class="sans" font-size="13.5" fill="#8b949e">Instant messaging with Socket.IO, JWT auth with</text>
+  <text x="24" y="129" class="sans" font-size="13.5" fill="#8b949e">bcrypt-hashed passwords, online presence,</text>
+  <text x="24" y="150" class="sans" font-size="13.5" fill="#8b949e">conversations stored in MongoDB.</text>
+  <rect x="24" y="164" width="50.8" height="22" rx="11" fill="#1f2937" stroke="#30363d"/><text x="49.4" y="179" class="mono" font-size="11" fill="#3fb950" text-anchor="middle">Node</text>
+  <rect x="82.8" y="164" width="86.8" height="22" rx="11" fill="#1f2937" stroke="#30363d"/><text x="126.19999999999999" y="179" class="mono" font-size="11" fill="#e6edf3" text-anchor="middle">Socket.IO</text>
+  <rect x="177.6" y="164" width="72.4" height="22" rx="11" fill="#1f2937" stroke="#30363d"/><text x="213.8" y="179" class="mono" font-size="11" fill="#3fb950" text-anchor="middle">MongoDB</text>
+  <rect x="258.0" y="164" width="58.0" height="22" rx="11" fill="#1f2937" stroke="#30363d"/><text x="287.0" y="179" class="mono" font-size="11" fill="#58a6ff" text-anchor="middle">React</text>
+</svg>
